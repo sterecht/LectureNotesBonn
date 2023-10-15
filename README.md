@@ -11,4 +11,4 @@ Here you can find all lecture notes I typed during my master studies at the univ
 - Group Rings of Infinite Groups by Prof. Dr. Giles Gardam
 - Hodge Theory by Prof. Dr. Philip Engel
 
-Obviously, these are my own notes and not connected to the lecturer in any way. I don't guarantee completeness or correctness. If you find any mistakes, please let me know.
+Obviously, these are my own notes and are not connected to the lecturer in any way. I don't guarantee completeness or correctness. If you find any mistakes, please let me know.
