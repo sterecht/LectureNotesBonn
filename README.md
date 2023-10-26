@@ -8,7 +8,7 @@ Here you can find all lecture notes I typed during my master studies at the univ
 **winter term 2023/24** (in progress)
 - Algebraic Topology I by Prof. Dr. Markus Hausmann
 - Étale Cohomology by Prof. Dr. Jens Franke
-- Group Rings of Infinite Groups by Prof. Dr. Giles Gardam
+- Group Rings of Infinite Groups by Prof. Dr. Giles Gardam (Update 26.10.23: discontinued since there are official lecture notes now)
 - Hodge Theory by Prof. Dr. Philip Engel
 
 Obviously, these are my own notes and are not connected to the lecturer in any way. I don't guarantee completeness or correctness. If you find any mistakes, please let me know.
